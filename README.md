@@ -24,11 +24,11 @@
 
 https://drive.google.com/file/d/1z5ZT9Ws5avLc-u35Ux5aLU9zmZ-45-E2/view?usp=sharing
   
-![Npm Start](./assets/Picture1.png)
+[Npm Start](https://www.dropbox.com/s/ffhmcrus6jlx9n4/Picture1.png?dl=0)
 
-![MySql DB](./assets/Picture2.png)
+[MySql DB](./assets/Picture2.png)
 
-![Insomnia](./assets/Picture3.png)
+[Insomnia](./assets/Picture3.png)
 
 
 
