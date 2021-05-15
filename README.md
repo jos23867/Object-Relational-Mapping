@@ -24,16 +24,13 @@
 
 https://drive.google.com/file/d/1z5ZT9Ws5avLc-u35Ux5aLU9zmZ-45-E2/view?usp=sharing
   
-![DB Setup and Start](./assets/DB%20setup%20and%20start.gif)
+![Npm Start](./assets/Picture1.png)
 
-![GET All](./assets/GET%20all.gif)
+![MySql DB](./assets/Picture2.png)
 
-![GET All by ID](./assets/GET%20by%20ID.gif)
+![Insomnia](./assets/Picture3.png)
 
-![POST PUT DELETE Products and Tags](./assets/POST%20PUT%20DELETE%20Tags%20and%20Products.gif)
 
-![POST PUT DELETE Categories](./assets/POST%20PUT%20DELETE%20Categories.gif)
-  
 
   
 ## User Story
