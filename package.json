@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/jos23867/Object-Relational-Mapping.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jose J. Guerrero",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jos23867/Object-Relational-Mapping/issues"
   },
